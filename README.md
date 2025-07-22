@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @NPeter80
-- 👀 I’m interested in finance
-- 🌱 I’m currently learning value investing
-- 💞️ I’m looking to collaborate on my studies
-- 📫 How to reach me: n.peter.m@protonmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm from Hungary
+- Value Investing
+- Trading terminal developer
+- I'm open to questions related to my work, feel free to email me at peter.nagy.m@gmail.com
 
 <!---
 NPeter80/NPeter80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
