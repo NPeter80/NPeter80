@@ -1,5 +1,5 @@
 - Value Investing
-- Trading terminal developer
+- Investment terminal developer
 - I'm open to questions related to my work, feel free to email me at peter.nagy.m@gmail.com
 
 <!---
